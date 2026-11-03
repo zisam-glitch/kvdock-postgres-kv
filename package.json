@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-postgres-kv",
+  "version": "1.0.0",
+  "description": "High-concurrency PostgreSQL key-value store with kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
